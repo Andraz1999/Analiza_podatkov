@@ -1,7 +1,7 @@
 # Analiza_podatkov
 
-## Pogoste številke na EuroJackpotu
-=======================
+## Pogoste številke na EuroJackpotu ##
+
 
 Analiziral bom zmagovalne številke na EuroJackpotu ter število zmagovalcev.
 [Euro Jackpot](https://www.euro-jackpot.net/en/results).
