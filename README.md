@@ -12,6 +12,6 @@ Za vsak datum bom zajel:
 * zmagovalce po posameznih državah
 
 Delovne hipoteze:
-* Ali obstaja povezava med določenimi številkami in številom zmagovalcev.
-* ALi je mogoče kakšna številka *srečna* za katero državo.
-* Ali države z več prebivalcev tudi večkrat zadanejo Euro Jackpot
+* Ali obstaja povezava med določenimi številkami in številom zmagovalcev?
+* Ali je mogoče kakšna številka *srečna* za katero državo?
+* Ali države z več prebivalcev tudi večkrat zadanejo Euro Jackpot?
