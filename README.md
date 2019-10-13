@@ -1,9 +1,9 @@
 # Analiza_podatkov
 
-##Pogoste številke na Euro Jackpot##
+## Pogoste številke na EuroJackpotu
 =======================
 
-Analiziral bom zmagovalne številke na Euro Jackpotu ter število zmagovalcev.
+Analiziral bom zmagovalne številke na EuroJackpotu ter število zmagovalcev.
 [Euro Jackpot](https://www.euro-jackpot.net/en/results).
 
 Za vsak datum bom zajel:
@@ -14,4 +14,4 @@ Za vsak datum bom zajel:
 Delovne hipoteze:
 * Ali obstaja povezava med določenimi številkami in številom zmagovalcev?
 * Ali je mogoče kakšna številka *srečna* za katero državo?
-* Ali države z več prebivalcev tudi večkrat zadanejo Euro Jackpot?
+* Ali države z večjim številom prebivalcev tudi večkrat zadanejo EuroJackpot?
