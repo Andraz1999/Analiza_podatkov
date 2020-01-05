@@ -23,6 +23,6 @@ Vsebina:
 * obdelaj.py je program, s katerim sem naredil json in csv datoteke.
 * euro.csv vsebuje osnovne podatke o žrebanju
 * stevilke.csv vsebuje podatke o tem, katere številke so bile kdaj izžrebane.
-* stevilke_euro.csv vsebuje podatke o tem, katere euro številke so bile kdaj ižrebane.
+* stevilke_euro.csv vsebuje podatke o tem, katere euro številke so bile kdaj izžrebane.
 * total_euro.csv vsebuje podatke o zmagovalcih po datumu.
 * po_drzavah_euro.csv vsebuje podatke o posameznih državah.
