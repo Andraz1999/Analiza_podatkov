@@ -26,3 +26,4 @@ Vsebina:
 * stevilke_euro.csv vsebuje podatke o tem, katere euro številke so bile kdaj izžrebane.
 * total_euro.csv vsebuje podatke o zmagovalcih po datumu.
 * po_drzavah_euro.csv vsebuje podatke o posameznih državah.
+* Analiza_za_euro_jackpot.ipynb vsebuje analizo z razpredelnicami in grafi.
